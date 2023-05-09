@@ -15,5 +15,6 @@ Second, get the images (images folder). This directory contains 6 images:
 •	DWI (Diffusion weighted image): sub-01_ses-forrestgump_dwi_sub-01_ses-forrestgump_dwi.nii.gz
 •	BOLD (Blood oxygen level dependent image): sub-01_ses-forrestgump_func_sub-01_ses-forrestgump_task-forrestgump_acq-dico_run-01_bold.nii.gz
 
-# Topics: Basic numpy, medical imaging modalities, SNR, and denoising. In this assignment we will familiarize ourselves with basic numpy array manipulation, different imaging modalities, and gain understanding of some basic image features (contrast and SNR).
+# Topics
+Basic numpy, medical imaging modalities, SNR, and denoising. In this assignment we will familiarize ourselves with basic numpy array manipulation, different imaging modalities, and gain understanding of some basic image features (contrast and SNR).
 
